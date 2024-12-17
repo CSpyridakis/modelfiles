@@ -1,4 +1,4 @@
-FROM qwen2.5-coder:14b
+FROM codellama:latest
 
 SYSTEM """
 I am encountering error messages and need assistance troubleshooting and resolving them. Please help by:
