@@ -76,3 +76,6 @@ Finally, since VS-Code is one of my go-to editors for development, I also use [C
 
 ## Goal
 This setup can ensure the deployment of LLMs locally on proprietary servers, which may be a mandatory security constraint for some applications or development of tools.
+
+> [!NOTE]
+> TODO: Create an index for future expansion
